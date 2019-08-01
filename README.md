@@ -17,4 +17,4 @@ The application can be run after installation using npm start to run the server,
 Once client and server is running, npm test both backend and frontend to ensure there are no bugs and if there are, it's easy to identify where it has occured.
 
 For scalability, I tested the application using two http benchmark tools: loadtest and siege.
-My attempt to test the app can be found here: https://github.com/niallbuckley/Learning-nodeJS
+My attempt to test the app can be found here: https://github.com/niallbuckley/FFScalability
